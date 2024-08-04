@@ -1,0 +1,12 @@
+{
+    "StatusCode": 200,
+    "StatusMsg": "Ok",
+    "Response": {
+        "Login": {
+            "userid": 2,
+            "username": "aby.e",
+            "isadmin": 1
+        },
+        "JwtToken": ""
+    }
+}
